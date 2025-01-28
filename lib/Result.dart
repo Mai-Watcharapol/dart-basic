@@ -10,7 +10,7 @@ class Result {
 
 void main() {
 
-  var data = Result(1, false, "aaaa");
+  var data = Result(1, false, "teepee");
 
   print(data);
   print("id: ${data.id}");
